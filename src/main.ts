@@ -15,8 +15,10 @@ then creating a variable will be unneccessary since I will have an unused variab
 document.getElementById("app")?.appendChild(p);
 
 // Add some text to the paragraph:
+p.className = "text";
 p.innerHTML = "Lorem ipsum";
 
 // Add CSS class red to p:
+
 
 console.log(p)
