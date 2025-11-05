@@ -14,4 +14,7 @@ then creating a variable will be unneccessary since I will have an unused variab
 //const app = 
 document.getElementById("app")?.appendChild(p);
 
+// Add some text to the paragraph:
+p.innerHTML = "Lorem ipsum";
+
 console.log(p)
