@@ -12,7 +12,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+/*
 a {
   font-weight: 500;
   color: #646cff;
@@ -21,7 +21,7 @@ a {
 a:hover {
   color: #535bf2;
 }
-
+*/
 body {
   margin: 0;
   display: flex;
@@ -41,7 +41,7 @@ h1 {
   padding: 2rem;
   text-align: center;
 }
-
+/*
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -81,6 +81,7 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+*/
 
 @media (prefers-color-scheme: light) {
   :root {
