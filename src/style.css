@@ -41,6 +41,13 @@ h1 {
   padding: 2rem;
   text-align: center;
 }
+
+/* =========================================== Create a class and set color to red =========================================== */
+
+.red {
+  color: red;
+}
+
 /*
 .logo {
   height: 6em;
